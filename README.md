@@ -1,7 +1,7 @@
-##Resources needed for the lab lectures
+## Resources needed for the lab lectures
 Thursday 1 October I will be holding the first lab lecture. Before that date, I would kindly ask the students to install the following programs and libraries.
 
-#Programs
+# Programs
 python (best a version in the 3.x series, eg. 3.8.5)
 a text editor specialised for programming (e.g., Visual Studio Code)
 Libraries
@@ -10,7 +10,7 @@ matplotlib
 pydotplus
 graphviz -- note: graphviz is not a python library and needs to be installed separatedly
 
-#Suggestions
+# Suggestions
 We suggest two ways to install the software (any other mean is accepted as long as everything works properly):
 
 virtualenv: pro - minimal installation; only necessary packages getet installed; cons - it nees some work to install all the required packages.

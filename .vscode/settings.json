@@ -1,6 +1,6 @@
 {
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.pythonPath": "/home/damian/Documents/Machine Learning/bin/python3",
+    "python.pythonPath": "/home/damian/pyVenv/bin/python3",
     "python.dataScience.jupyterServerURI": "local"
 }

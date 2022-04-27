@@ -1,7 +1,16 @@
-## Resources needed for the lab lectures
-Thursday 1 October I will be holding the first lab lecture. Before that date, I would kindly ask the students to install the following programs and libraries.
+# Machine Learning Introduction
 
-# Programs
+My learing path using the practical open software suite (Scikit Learn[http://scikit-learn.org/stable/]) that includes the algorithms of learning of the models seen during the course (and much more). With Scikit Learn we will approach some sessions of data analysis using some public available datasets.
+
+This repository contains different experiment with some of the popular models in Machine Learning like:
+- binary classification
+- tree models
+- support vector machines
+- naive Bayes
+- k-nearest neighbors
+- k-means clustering
+
+## Programs required
 python (best a version in the 3.x series, eg. 3.8.5)
 a text editor specialised for programming (e.g., Visual Studio Code)
 Libraries
@@ -10,7 +19,7 @@ matplotlib
 pydotplus
 graphviz -- note: graphviz is not a python library and needs to be installed separatedly
 
-# Suggestions
+## Suggestions
 We suggest two ways to install the software (any other mean is accepted as long as everything works properly):
 
 virtualenv: pro - minimal installation; only necessary packages getet installed; cons - it nees some work to install all the required packages.

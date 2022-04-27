@@ -1,6 +1,6 @@
 # Machine Learning Introduction
 
-My learing path using the practical open software suite (Scikit Learn[http://scikit-learn.org/stable/]) that includes the algorithms of learning of the models seen during the course (and much more). With Scikit Learn we will approach some sessions of data analysis using some public available datasets.
+My learing path using the practical open software suite ([Scikit Learn](http://scikit-learn.org/stable/)) that includes the algorithms of learning of the models seen during the course (and much more). With Scikit Learn we will approach some sessions of data analysis using some public available datasets.
 
 This repository contains different experiment with some of the popular models in Machine Learning like:
 - binary classification
